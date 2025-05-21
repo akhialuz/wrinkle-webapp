@@ -1,0 +1,451 @@
+gender,age,skin_type,wrinkle,recommendation
+female,13-19,normal,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,normal,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,normal,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night: Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,dry,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,dry,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,dry,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,oily,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,oily,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,oily,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,combination,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,combination,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,combination,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,sensitive,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,sensitive,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,13-19,sensitive,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,normal,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,normal,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,normal,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,dry,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,dry,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,dry,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,oily,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,oily,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,oily,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,combination,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,combination,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,combination,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,sensitive,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,sensitive,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,20-29,sensitive,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,normal,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,normal,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,normal,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,dry,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,dry,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,dry,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,oily,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,oily,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,oily,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,combination,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,combination,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,combination,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,sensitive,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,sensitive,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,30-39,sensitive,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,normal,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,normal,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,normal,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,dry,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,dry,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,dry,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,oily,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,oily,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,oily,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,combination,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,combination,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,combination,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,sensitive,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,sensitive,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,40-49,sensitive,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,normal,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,normal,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,normal,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,dry,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,dry,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,dry,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,oily,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,oily,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,oily,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,combination,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,combination,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,combination,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,sensitive,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,sensitive,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+female,50+,sensitive,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,normal,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,normal,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,normal,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,dry,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,dry,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,dry,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,oily,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,oily,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,oily,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,combination,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,combination,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,combination,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,sensitive,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,sensitive,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,13-19,sensitive,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 30+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,normal,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,normal,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,normal,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,dry,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,dry,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,dry,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,oily,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,oily,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,oily,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,combination,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,combination,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,combination,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,sensitive,mild_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,sensitive,moderate_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,20-29,sensitive,severe_wrinkle,"Focus on prevention with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,normal,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,normal,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night: Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,normal,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,dry,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,dry,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,dry,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,oily,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,oily,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,oily,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,combination,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,combination,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,combination,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,sensitive,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,sensitive,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,30-39,sensitive,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,normal,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,normal,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,normal,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,dry,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,dry,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,dry,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,oily,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,oily,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,oily,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,combination,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morningb: Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,combination,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,combination,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,sensitive,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,sensitive,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,40-49,sensitive,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,normal,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,normal,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,normal,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,dry,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,dry,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,dry,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a hydrating cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,oily,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,oily,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,oily,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,combination,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,combination,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,combination,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gentle foaming cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply retinol serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,sensitive,mild_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,sensitive,moderate_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."
+male,50+,sensitive,severe_wrinkle,"Support aging skin with proper hydration and targeted actives.
+Morning : Use a gel cleanser, apply serum with niacinamide or hyaluronic acid, use a lightweight moisturizer, and finish with SPF 50+ sunscreen.
+Night : Cleanse, then apply bakuchiol (gentle retinol alternative) serum 2–3 times per week, followed by a suitable night cream. Exfoliate 1x/week using a mild toner."

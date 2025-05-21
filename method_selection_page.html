@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Choose Your Scan Method</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #ffe5ec, #fce4ec);
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header, footer {
+            background-color: #d63384;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            font-size: 22px;
+            margin: 0 auto;
+            max-width: 900px;
+            line-height: 1.4;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        .intro {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .options {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        }
+        .option-box {
+            flex: 1;
+            min-width: 250px;
+            background: #fff0f6;
+            border-left: 6px solid #d63384;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .option-box h2 {
+            color: #a52668;
+        }
+        .option-box p {
+            font-size: 15px;
+        }
+        .option-box a {
+            display: inline-block;
+            margin-top: 15px;
+            background-color: #d63384;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .option-box a:hover {
+            background-color: #c2185b;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Select Your Preferred Scanning Method</h1>
+    </header>
+
+    <div class="container">
+        <div class="intro">
+            <p>We offer two convenient ways to scan your skin for wrinkle analysis. Please choose the method that suits you best:</p>
+        </div>
+
+        <div class="options">
+            <div class="option-box">
+                <h2>📁 Upload Image on Laptop</h2>
+                <p>If you already have a clear skin photo saved on your device, you can directly upload it here. Recommended if you’ve taken a high-quality photo using your phone camera beforehand.</p>
+                <a href="/form">Continue with Upload</a>
+            </div>
+
+            <div class="option-box">
+                <h2>📷 Scan QR Code Using Phone</h2>
+                <p>Prefer taking a fresh photo using your phone camera? Use this option to open the wrinkle detection site directly on your phone and take a photo instantly.</p>
+                <a href="/qr-instructions">Use Phone Camera</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Made with 💖 by Zulaikha | Powered by AI</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Your Skincare Assistant</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #ffe5ec, #fce4ec);
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header, footer {
+            background-color: #d63384;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            font-size: 20px;
+            font-weight: normal;
+            margin: 0 auto;
+            max-width: 900px;
+            line-height: 1.4;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        h2 {
+            color: #d63384;
+            margin-bottom: 30px;
+        }
+        .phase-container {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 40px;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .phase-box {
+            flex: 1;
+            background-color: #fff0f6;
+            border-left: 6px solid #d63384;
+            padding: 20px;
+            border-radius: 10px;
+            min-width: 250px;
+        }
+        .phase-box h3 {
+            color: #a52668;
+        }
+        .phase-box p {
+            font-size: 15px;
+        }
+        .start-button {
+            background-color: #d63384;
+            color: white;
+            font-size: 18px;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        .start-button:hover {
+            background-color: #c2185b;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            AI-Powered Skin Wrinkles Detection<br>
+            And Personalized Care Solutions For Proactive Skincare
+        </h1>
+    </header>
+
+    <div class="container">
+        <h2>Welcome! 💖</h2>
+        <p>Learn more about wrinkle phases before getting started:</p>
+
+        <div class="phase-container">
+            <div class="phase-box">
+                <h3>Mild Wrinkles</h3>
+                <p>Fine lines that appear only with facial expressions. Common in younger skin. Often reversible with hydration and SPF.</p>
+            </div>
+            <div class="phase-box">
+                <h3>Moderate Wrinkles</h3>
+                <p>Visible at rest, not just during facial movement. Often caused by aging, sun damage, or dehydration. Treatable with retinoids and barrier care.</p>
+            </div>
+            <div class="phase-box">
+                <h3>Severe Wrinkles</h3>
+                <p>Deep and permanent lines. Typically found in mature skin. Requires intensive anti-aging routines and consistent care.</p>
+            </div>
+        </div>
+
+        <a href="/scan-method" class="start-button">Let's Start</a>
+    </div>
+
+    <footer>
+        <p>Made with 💖 by Zulaikha | Powered by AI</p>
+    </footer>
+</body>
+</html>
