@@ -1,0 +1,1301 @@
+gender,age,skin_type,wrinkle,recommendation
+female,13-19,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,13-19,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,13-19,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,13-19,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,13-19,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,13-19,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,13-19,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,13-19,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,13-19,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,13-19,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,13-19,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,13-19,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,13-19,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,13-19,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,13-19,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,20-29,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,20-29,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,20-29,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,20-29,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,20-29,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,20-29,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,20-29,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,20-29,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,20-29,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,20-29,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,20-29,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,20-29,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,20-29,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,20-29,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,20-29,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,30-39,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,30-39,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,30-39,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,30-39,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,30-39,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,30-39,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,30-39,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,30-39,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,30-39,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,30-39,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,30-39,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,30-39,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,30-39,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,30-39,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,30-39,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,40-49,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,40-49,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,40-49,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,40-49,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,40-49,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,40-49,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,40-49,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,40-49,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,40-49,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,40-49,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,40-49,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,40-49,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,40-49,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,40-49,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,40-49,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,50+,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,50+,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,50+,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,50+,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,50+,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,50+,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,50+,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,50+,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,50+,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,50+,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,50+,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,50+,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+female,50+,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+female,50+,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+female,50+,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,13-19,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,13-19,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,13-19,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,13-19,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,13-19,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,13-19,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,13-19,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,13-19,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,13-19,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,13-19,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,13-19,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,13-19,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,13-19,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,13-19,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,13-19,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,20-29,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,20-29,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,20-29,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,20-29,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,20-29,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,20-29,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,20-29,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,20-29,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,20-29,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,20-29,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,20-29,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,20-29,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,20-29,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,20-29,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,20-29,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,30-39,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,30-39,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,30-39,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,30-39,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,30-39,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,30-39,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,30-39,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,30-39,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,30-39,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,30-39,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,30-39,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,30-39,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,30-39,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,30-39,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,30-39,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,40-49,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,40-49,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,40-49,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,40-49,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,40-49,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,40-49,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,40-49,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,40-49,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,40-49,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,40-49,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,40-49,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,40-49,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,40-49,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,40-49,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,40-49,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,50+,normal,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,50+,normal,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,50+,normal,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,50+,dry,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,50+,dry,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,50+,dry,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,50+,oily,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,50+,oily,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,50+,oily,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,50+,combination,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,50+,combination,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,50+,combination,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
+male,50+,sensitive,mild_wrinkle,"✨ Your skin shows only mild wrinkles — great job maintaining it!
+🌞 Daily habits:
+  - Use a gentle cleanser morning and night.
+  - Apply lightweight moisturizer with SPF 30+ daily.
+  - Get enough sleep and stay hydrated.
+💡 Tip: Introduce hyaluronic acid or niacinamide for early prevention."
+male,50+,sensitive,moderate_wrinkle,"🧴 Your skin shows moderate wrinkles — time to be proactive!
+🌿 Preventative routine:
+  - Use a hydrating or anti-aging cleanser.
+  - Apply retinol (or bakuchiol for sensitive skin) 2–3x/week.
+  - Use vitamin C serum in the morning, and SPF 50+ daily.
+💧 Moisturize well, especially at night. Avoid harsh exfoliants.
+🍓 Eat antioxidant-rich foods and reduce sugar intake."
+male,50+,sensitive,severe_wrinkle,"🩺 Your skin shows severe wrinkles — it’s time for serious care.
+📋 Dermatologist-recommended steps:
+  - Consider prescription retinoids or peptides.
+  - Use ceramide-rich moisturizers and avoid stripping cleansers.
+  - Apply SPF 50+ every morning, rain or shine.
+🔍 Suggested ingredients:
+  - Retinol, peptides, niacinamide, hyaluronic acid.
+  - Avoid alcohol-based toners or products with fragrance.
+🍽 Lifestyle changes:
+  - Get 7–9 hours of sleep.
+  - Drink at least 2L of water per day.
+  - Minimize stress and avoid smoking.
+🧘 Consider consulting a dermatologist for personalized treatment."
