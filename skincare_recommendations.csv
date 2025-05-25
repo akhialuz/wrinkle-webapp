@@ -1,0 +1,651 @@
+gender,age,skin_type,wrinkle,recommendation
+female,13-19,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,13-19,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,13-19,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,13-19,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,13-19,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,13-19,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,13-19,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,13-19,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,13-19,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,13-19,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,13-19,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,13-19,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,13-19,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,13-19,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,13-19,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,20-29,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,20-29,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,20-29,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,20-29,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,20-29,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,20-29,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,20-29,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,20-29,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,20-29,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,20-29,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,20-29,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,20-29,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,20-29,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,20-29,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,20-29,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,30-39,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,30-39,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,30-39,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,30-39,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,30-39,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,30-39,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,30-39,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,30-39,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,30-39,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,30-39,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,30-39,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,30-39,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,30-39,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,30-39,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,30-39,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,40-49,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,40-49,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,40-49,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,40-49,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,40-49,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,40-49,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,40-49,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,40-49,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,40-49,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,40-49,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,40-49,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,40-49,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,40-49,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,40-49,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,40-49,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,50+,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,50+,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,50+,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,50+,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,50+,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,50+,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,50+,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,50+,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,50+,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,50+,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,50+,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,50+,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+female,50+,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+female,50+,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+female,50+,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,13-19,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,13-19,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,13-19,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,13-19,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,13-19,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,13-19,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,13-19,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,13-19,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,13-19,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,13-19,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,13-19,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,13-19,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,13-19,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 30+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,13-19,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 30+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,13-19,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 30+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,20-29,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,20-29,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,20-29,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,20-29,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,20-29,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,20-29,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,20-29,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,20-29,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,20-29,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,20-29,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,20-29,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,20-29,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,20-29,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,20-29,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,20-29,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,30-39,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,30-39,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,30-39,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,30-39,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,30-39,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,30-39,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,30-39,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,30-39,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,30-39,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,30-39,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,30-39,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,30-39,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,30-39,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,30-39,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,30-39,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,40-49,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,40-49,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,40-49,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,40-49,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,40-49,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,40-49,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,40-49,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,40-49,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,40-49,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,40-49,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,40-49,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,40-49,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,40-49,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,40-49,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,40-49,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,50+,normal,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,50+,normal,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,50+,normal,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,50+,dry,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: hydrating cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,50+,dry,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,50+,dry,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,50+,oily,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,50+,oily,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,50+,oily,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,50+,combination,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gentle foaming cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, retinol serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,50+,combination,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, retinol or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,50+,combination,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use retinol, anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
+male,50+,sensitive,mild_wrinkle,"✨ Your skin shows early signs of fine lines. Keep up the good habits!
+- Morning: gel cleanser, antioxidant serum, light moisturizer, and SPF 50+ sunscreen.
+- Night: Hydrating toner, bakuchiol (gentle retinol alternative) serum (2–3x/week), and nourishing night cream.
+→ Tip: Drink plenty of water, get quality sleep, and wear sunscreen every day!"
+male,50+,sensitive,moderate_wrinkle,"🧴 Moderate wrinkles need consistent care to reduce their depth and prevent new ones.
+- Morning: Cleanse, vitamin C serum, firming moisturizer, and SPF 50+ sunscreen.
+- Night: Double cleanse, bakuchiol (gentle retinol alternative) or peptides, and anti-aging moisturizer.
+→ Tip: Exfoliate gently 1–2x/week and focus on barrier-repairing products."
+male,50+,sensitive,severe_wrinkle,"🩺 Deep wrinkles may require intensive skincare and lifestyle adjustments.
+- Morning: Creamy cleanser, firming serum with peptides or collagen, rich moisturizer, SPF 50+ sunscreen.
+- Night: Use bakuchiol (gentle retinol alternative), anti-aging night cream with ceramides and niacinamide.
+→ Tip: Consult a dermatologist for advanced treatments (like micro-needling or laser).
+→ Lifestyle: Avoid smoking, manage stress, and follow a nutrient-rich diet with healthy fats."
