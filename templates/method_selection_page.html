@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Select Upload Method</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -45,7 +46,7 @@
             margin: 20px 0;
         }
         .example-image img {
-            max-width: 200px;
+            max-width: 100%;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
@@ -83,6 +84,21 @@
         footer p {
             margin: 0;
         }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 18px;
+                padding: 0 15px;
+            }
+            .container {
+                margin: 20px 15px;
+                padding: 20px;
+            }
+            .primary-button {
+                font-size: 15px;
+                padding: 10px 20px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -92,7 +108,7 @@
     </header>
 
     <div class="container">
-        <h2>📄 Upload Method (Laptop/Desktop)</h2>
+        <h2>📄 Upload from Laptop/Desktop</h2>
 
         <div class="instruction">
             <p>
@@ -113,7 +129,7 @@
         <a href="/form" class="primary-button">✅ I Understand & Continue</a>
 
         <div class="qr-option">
-            <p>📱 Prefer to take a photo directly using your mobile phone?</p>
+            <p>📱 Prefer to take a photo using your phone?</p>
             <a href="/qr-instructions">Click here to scan from your phone</a>
         </div>
     </div>
