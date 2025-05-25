@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Choose Your Scan Method</title>
+    <title>Select Upload Method</title>
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -23,50 +23,62 @@
             line-height: 1.4;
         }
         .container {
-            max-width: 900px;
+            max-width: 800px;
+            background: white;
             margin: 40px auto;
             padding: 30px;
-            background: white;
             border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
         }
-        .intro {
+        h2 {
+            color: #d63384;
+            margin-bottom: 20px;
             text-align: center;
-            margin-bottom: 30px;
         }
-        .options {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            justify-content: space-between;
+        .instruction {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 20px;
         }
-        .option-box {
-            flex: 1;
-            min-width: 250px;
+        .example-image {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .example-image img {
+            max-width: 200px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        .primary-button {
+            display: block;
+            margin: 30px auto 10px;
+            background: #d63384;
+            color: white;
+            padding: 12px 30px;
+            text-align: center;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            width: fit-content;
+        }
+        .primary-button:hover {
+            background: #c2185b;
+        }
+        .qr-option {
+            margin-top: 30px;
+            text-align: center;
             background: #fff0f6;
+            padding: 20px;
             border-left: 6px solid #d63384;
             border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
         }
-        .option-box h2 {
-            color: #a52668;
-        }
-        .option-box p {
-            font-size: 15px;
-        }
-        .option-box a {
+        .qr-option a {
             display: inline-block;
-            margin-top: 15px;
-            background-color: #d63384;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 8px;
-            text-decoration: none;
+            margin-top: 10px;
+            color: #d63384;
             font-weight: bold;
-        }
-        .option-box a:hover {
-            background-color: #c2185b;
+            text-decoration: underline;
         }
         footer p {
             margin: 0;
@@ -74,27 +86,35 @@
     </style>
 </head>
 <body>
+
     <header>
-        <h1>Select Your Preferred Scanning Method</h1>
+        <h1>Choose Your Method to Begin Skin Wrinkle Detection</h1>
     </header>
 
     <div class="container">
-        <div class="intro">
-            <p>We offer two convenient ways to scan your skin for wrinkle analysis. Please choose the method that suits you best:</p>
+        <h2>📄 Upload Method (Laptop/Desktop)</h2>
+
+        <div class="instruction">
+            <p>
+                You can upload a photo of your skin if it's already saved on your device. Please ensure the image is:
+            </p>
+            <ul>
+                <li>Clear and well-lit</li>
+                <li>Close-up of the skin area (face, cheek, or forehead)</li>
+                <li>No makeup or filters for the best accuracy</li>
+            </ul>
         </div>
 
-        <div class="options">
-            <div class="option-box">
-                <h2>📁 Upload Image on Laptop</h2>
-                <p>If you already have a clear skin photo saved on your device, you can directly upload it here. Recommended if you’ve taken a high-quality photo using your phone camera beforehand.</p>
-                <a href="/form">Continue with Upload</a>
-            </div>
+        <div class="example-image">
+            <p><strong>Example Image:</strong></p>
+            <img src="{{ url_for('static', filename='image/sample_skin.jpg') }}" alt="Example of Clear Skin Upload">
+        </div>
 
-            <div class="option-box">
-                <h2>📷 Scan QR Code Using Phone</h2>
-                <p>Prefer taking a fresh photo using your phone camera? Use this option to open the wrinkle detection site directly on your phone and take a photo instantly.</p>
-                <a href="/qr-instructions">Use Phone Camera</a>
-            </div>
+        <a href="/form" class="primary-button">✅ I Understand & Continue</a>
+
+        <div class="qr-option">
+            <p>📱 Prefer to take a photo directly using your mobile phone?</p>
+            <a href="/qr-instructions">Click here to scan from your phone</a>
         </div>
     </div>
 
