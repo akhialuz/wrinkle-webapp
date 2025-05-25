@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>AI Wrinkle Detector</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -22,12 +23,14 @@
         h1 {
             color: #d63384;
             margin-bottom: 30px;
+            font-size: 24px;
         }
         label {
             display: block;
             margin: 15px 0 5px;
             font-weight: bold;
             color: #6c2b5f;
+            text-align: left;
         }
         select, input[type="file"] {
             width: 100%;
@@ -49,22 +52,67 @@
         button:hover {
             background-color: #c2185b;
         }
-        .back-link {
-            display: inline-block;
-            margin-top: 20px;
-            text-decoration: none;
+
+        /* Loading spinner styles */
+        .spinner-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 229, 236, 0.9);
+            z-index: 9999;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .spinner {
+            border: 6px solid #f3f3f3;
+            border-top: 6px solid #d63384;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 15px;
+        }
+
+        .spinner-text {
             color: #d63384;
+            font-size: 16px;
             font-weight: bold;
         }
-        .back-link:hover {
-            text-decoration: underline;
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px 15px;
+                padding: 25px;
+            }
+            h1 {
+                font-size: 20px;
+            }
+            button {
+                font-size: 15px;
+                padding: 10px 20px;
+            }
         }
     </style>
 </head>
 <body>
+
+    <div class="spinner-overlay" id="spinner">
+        <div class="spinner"></div>
+        <div class="spinner-text">Processing your image... 💖</div>
+    </div>
+
     <div class="container">
         <h1>AI Wrinkle Detector 💆‍♀️</h1>
-        <form method="POST" enctype="multipart/form-data">
+        <form method="POST" enctype="multipart/form-data" onsubmit="showSpinner()">
             <label>Gender</label>
             <select name="gender" required>
                 <option value="">-- Select Gender --</option>
@@ -97,8 +145,13 @@
 
             <button type="submit">Get Recommendation</button>
         </form>
-
-        <a href="/scan-method" class="back-link">&larr; Back to Options</a>
     </div>
+
+    <script>
+        function showSpinner() {
+            document.getElementById("spinner").style.display = "flex";
+        }
+    </script>
+
 </body>
 </html>
