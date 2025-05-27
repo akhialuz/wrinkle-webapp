@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Your Skincare Routine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -14,39 +15,40 @@
             background-color: #d63384;
             color: white;
             text-align: center;
-            padding: 15px 30px;
+            padding: 20px;
+        }
+        header h1 {
+            font-size: 20px;
+            margin: 0 auto;
+            max-width: 900px;
+            line-height: 1.5;
         }
         .container {
             max-width: 800px;
             background: white;
-            margin: 60px auto;
-            padding: 40px;
+            margin: 40px auto;
+            padding: 30px;
             border-radius: 15px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
         }
-        h1 {
+        h2 {
             color: #d63384;
-            margin-bottom: 30px;
-            text-align: center;
+            margin-bottom: 15px;
         }
         .section {
-            margin-bottom: 25px;
-        }
-        .section h2 {
-            color: #a52668;
-            margin-bottom: 10px;
-            text-align: center;
+            margin-bottom: 30px;
         }
         .section p {
             font-size: 16px;
-            text-align: center;
+            line-height: 1.6;
         }
         img {
             display: block;
             margin: 20px auto;
-            max-width: 250px;
+            max-width: 100%;
+            height: auto;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }
         .recommendation {
             background: #fff0f6;
@@ -54,7 +56,7 @@
             border-left: 6px solid #d63384;
             border-radius: 10px;
             font-size: 16px;
-            text-align: center;
+            white-space: pre-line;
         }
         .button-group {
             text-align: center;
@@ -73,33 +75,57 @@
         .button-group a:hover {
             background: #c2185b;
         }
+        footer p {
+            margin: 0;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 18px;
+                padding: 0 15px;
+            }
+            .container {
+                margin: 20px 15px;
+                padding: 20px;
+            }
+            h2 {
+                font-size: 18px;
+            }
+            .section p, .recommendation {
+                font-size: 15px;
+            }
+            .button-group a {
+                font-size: 15px;
+                padding: 10px 20px;
+            }
+        }
     </style>
 </head>
 <body>
+
     <header>
-    <h1 style="font-size: 20px; font-weight: normal; margin: 0 20px;">
-        AI-Powered Skin Wrinkles Detection And Personalized Care Solutions For Proactive Skincare
-    </h1>
+        <h1>AI-Powered Skin Wrinkle Care Result</h1>
     </header>
 
     <div class="container">
-        <h1>Your Personalized Skincare Plan 🧴</h1>
+        <h2>Your Personalized Skincare Plan 🧴</h2>
 
         <div class="section">
-            <h2>User Information</h2>
+            <h3>User Information</h3>
             <p><strong>Gender:</strong> {{ gender }}</p>
             <p><strong>Age Group:</strong> {{ age }}</p>
             <p><strong>Skin Type:</strong> {{ skin_type }}</p>
         </div>
 
         <div class="section">
-            <h2>Wrinkle Prediction</h2>
+            <h3>Wrinkle Prediction</h3>
             <p>{{ prediction }}</p>
             <img src="{{ uploaded_image }}" alt="Uploaded Image">
         </div>
 
         <div class="section">
-            <h2>Skincare Recommendation</h2>
+            <h3>Skincare Recommendation</h3>
             <div class="recommendation">
                 {{ recommendation }}
             </div>
@@ -114,5 +140,6 @@
     <footer>
         <p>Made with 💖 by Zulaikha | Powered by AI</p>
     </footer>
+
 </body>
 </html>
