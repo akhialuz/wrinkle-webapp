@@ -11,18 +11,14 @@
             padding: 0;
             color: #333;
         }
+
         header, footer {
             background-color: #d63384;
             color: white;
             text-align: center;
-            padding: 20px;
+            padding: 15px 30px;
         }
-        header h1 {
-            font-size: 20px;
-            margin: 0 auto;
-            max-width: 900px;
-            line-height: 1.5;
-        }
+
         .container {
             max-width: 800px;
             background: white;
@@ -31,73 +27,106 @@
             border-radius: 15px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
         }
-        h2 {
+
+        h1 {
             color: #d63384;
-            margin-bottom: 15px;
+            margin-bottom: 25px;
+            text-align: center;
+            font-size: 22px;
         }
+
         .section {
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
+
+        .section h2 {
+            color: #a52668;
+            font-size: 18px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
         .section p {
-            font-size: 16px;
+            font-size: 15px;
             line-height: 1.6;
+            text-align: center;
         }
+
         img {
             display: block;
-            margin: 20px auto;
-            max-width: 100%;
-            height: auto;
+            margin: 15px auto 25px;
+            max-width: 180px;
             border-radius: 10px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
+
         .recommendation {
             background: #fff0f6;
-            padding: 20px;
+            padding: 18px;
             border-left: 6px solid #d63384;
             border-radius: 10px;
-            font-size: 16px;
-            white-space: pre-line;
+            font-size: 15px;
+            line-height: 1.6;
+            max-height: 220px;
+            overflow-y: auto;
         }
+
         .button-group {
             text-align: center;
-            margin-top: 40px;
+            margin-top: 30px;
         }
+
         .button-group a {
             display: inline-block;
             margin: 10px;
             background: #d63384;
             color: white;
             text-decoration: none;
-            padding: 12px 30px;
+            padding: 10px 20px;
             border-radius: 8px;
             font-weight: bold;
+            font-size: 15px;
         }
+
         .button-group a:hover {
             background: #c2185b;
         }
+
         footer p {
             margin: 0;
             font-size: 14px;
         }
 
+        /* Mobile tweaks */
         @media (max-width: 600px) {
-            header h1 {
-                font-size: 18px;
-                padding: 0 15px;
-            }
             .container {
                 margin: 20px 15px;
                 padding: 20px;
             }
-            h2 {
-                font-size: 18px;
+
+            h1 {
+                font-size: 20px;
             }
+
+            .section h2 {
+                font-size: 16px;
+            }
+
             .section p, .recommendation {
-                font-size: 15px;
+                font-size: 14px;
             }
+
+            .recommendation {
+                max-height: 180px;
+            }
+
             .button-group a {
-                font-size: 15px;
-                padding: 10px 20px;
+                font-size: 14px;
+                padding: 8px 16px;
+            }
+
+            img {
+                max-width: 150px;
             }
         }
     </style>
@@ -105,27 +134,27 @@
 <body>
 
     <header>
-        <h1>AI-Powered Skin Wrinkle Care Result</h1>
+        <h1>AI-Powered Skin Wrinkle Care</h1>
     </header>
 
     <div class="container">
-        <h2>Your Personalized Skincare Plan 🧴</h2>
+        <h1>Your Personalized Skincare Plan 🧴</h1>
 
         <div class="section">
-            <h3>User Information</h3>
+            <h2>User Information</h2>
             <p><strong>Gender:</strong> {{ gender }}</p>
             <p><strong>Age Group:</strong> {{ age }}</p>
             <p><strong>Skin Type:</strong> {{ skin_type }}</p>
         </div>
 
         <div class="section">
-            <h3>Wrinkle Prediction</h3>
+            <h2>Wrinkle Prediction</h2>
             <p>{{ prediction }}</p>
             <img src="{{ uploaded_image }}" alt="Uploaded Image">
         </div>
 
         <div class="section">
-            <h3>Skincare Recommendation</h3>
+            <h2>Skincare Recommendation</h2>
             <div class="recommendation">
                 {{ recommendation }}
             </div>
