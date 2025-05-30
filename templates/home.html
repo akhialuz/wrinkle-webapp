@@ -27,14 +27,25 @@
             transition: opacity 0.8s ease;
         }
         #splash img {
-            width: 120px;
+            width: 160px;
             margin-bottom: 15px;
         }
         #splash p {
-            font-size: 20px;
+            font-size: 22px;
             color: #d63384;
             font-weight: bold;
         }
+        
+        /* Responsive: Bigger logo on small screens */
+        @media (max-width: 600px) {
+            #splash img {
+                width: 180px;
+            }
+            #splash p {
+                font-size: 24px;
+            }
+        }
+
 
         header, footer {
             background-color: #d63384;
