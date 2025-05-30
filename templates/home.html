@@ -1,135 +1,87 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome to Your Skincare Assistant</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, #ffe5ec, #fce4ec);
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        header, footer {
-            background-color: #d63384;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        header h1 {
-            font-size: 20px;
-            font-weight: normal;
-            margin: 0 auto;
-            max-width: 900px;
-            line-height: 1.5;
-        }
-        .container {
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 30px;
-            background: white;
-            border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-            text-align: center;
-        }
-        h2 {
-            color: #d63384;
-            margin-bottom: 30px;
-            font-size: 24px;
-        }
-        .phase-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            gap: 20px;
-            margin-bottom: 40px;
-        }
-        .phase-box {
-            flex: 1 1 250px;
-            background-color: #fff0f6;
-            border-left: 6px solid #d63384;
-            padding: 20px;
-            border-radius: 10px;
-            min-width: 250px;
-        }
-        .phase-box h3 {
-            color: #a52668;
-            margin-bottom: 10px;
-        }
-        .phase-box p {
-            font-size: 15px;
-            line-height: 1.6;
-        }
-        .start-button {
-            background-color: #d63384;
-            color: white;
-            font-size: 18px;
-            padding: 12px 30px;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            text-decoration: none;
-        }
-        .start-button:hover {
-            background-color: #c2185b;
-        }
-        footer p {
-            margin: 0;
-            font-size: 14px;
-        }
+from flask import Flask, render_template, request, redirect, url_for
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing import image
+import numpy as np
+import os
+import csv
 
-        /* Responsive tweaks */
-        @media (max-width: 600px) {
-            header h1 {
-                font-size: 18px;
-                padding: 0 15px;
-            }
-            .container {
-                margin: 20px 15px;
-                padding: 20px;
-            }
-            .start-button {
-                font-size: 16px;
-                padding: 10px 20px;
-            }
-        }
-    </style>
-</head>
-<body>
+print("Current directory:", os.getcwd())
 
-    <header>
-        <h1>
-            AI-Powered Skin Wrinkles Detection<br>
-            And Personalized Care Solutions For Proactive Skincare
-        </h1>
-    </header>
+app = Flask(__name__)
+model = load_model('mobilenet_wrinkle_model.h5')
 
-    <div class="container">
-        <h2>Welcome! 💖</h2>
-        <p>Get to know the wrinkle levels before scanning your skin:</p>
+class_names = ['mild_wrinkle', 'moderate_wrinkle', 'no_wrinkle', 'severe_wrinkle']
+UPLOAD_FOLDER = 'static/uploads'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-        <div class="phase-container">
-            <div class="phase-box">
-                <h3>Mild Wrinkles</h3>
-                <p>Fine lines that appear during facial expressions. Often reversible with hydration and protection.</p>
-            </div>
-            <div class="phase-box">
-                <h3>Moderate Wrinkles</h3>
-                <p>Visible at rest, not just during expressions. Caused by aging and sun exposure. Treatable with active care.</p>
-            </div>
-            <div class="phase-box">
-                <h3>Severe Wrinkles</h3>
-                <p>Deep lines visible at all times. More common in mature skin. Requires consistent anti-aging routines.</p>
-            </div>
-        </div>
+recommendations = {}
+with open('skincare_recommendations.csv', 'r', encoding='utf-8') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        key = f"{row['gender']}_{row['age']}_{row['skin_type']}_{row['wrinkle']}"
+        recommendations[key] = row['recommendation']
 
-        <a href="/scan-method" class="start-button">Let's Start</a>
-    </div>
+@app.route('/')
+def home():
+    return render_template('home.html')
 
-    <footer>
-        <p>Made with 💖 by Zulaikha | Powered by AI</p>
-    </footer>
+@app.route('/scan-method')
+def scan_method():
+    return render_template('method_selection_page.html')
 
-</body>
-</html>
+@app.route('/qr-instructions')
+def qr_instructions():
+    return render_template('qr_instructions.html')
+
+@app.route('/form', methods=['GET', 'POST'])
+def form():
+    prediction = None
+    recommendation = None
+    uploaded_image = None
+    gender = None
+    age = None
+    skin_type = None
+
+    if request.method == 'POST':
+        gender = request.form.get('gender')
+        age = request.form.get('age')
+        skin_type = request.form.get('skin_type')
+        file = request.files.get('file')
+
+        if file:
+            filepath = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+            file.save(filepath)
+            uploaded_image = filepath
+
+            img = image.load_img(filepath, target_size=(150, 150))
+            img_array = image.img_to_array(img) / 255.0
+            img_array = np.expand_dims(img_array, axis=0)
+            result = model.predict(img_array)
+            predicted_class = class_names[np.argmax(result)]
+            readable_label = predicted_class.replace('_', ' ').title()
+            prediction = f"Predicted Wrinkle Severity: {readable_label}"
+
+            if predicted_class == "no_wrinkle":
+                recommendation = (
+                    "Your skin looks amazing! 🌟 Keep up the good work and don’t forget to wear sunscreen every day ☀️"
+                )
+            else:
+                key = f"{gender}_{age}_{skin_type}_{predicted_class}"
+                recommendation = recommendations.get(
+                    key,
+                    "No specific routine found for this combination, but keep taking care of your skin! 💧"
+                )
+
+            return render_template('result.html',
+                                   gender=gender.title(),
+                                   age=age,
+                                   skin_type=skin_type.title(),
+                                   prediction=prediction,
+                                   uploaded_image=uploaded_image,
+                                   recommendation=recommendation)
+
+    return render_template('index.html')
+
+if __name__ == '__main__':
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host='0.0.0.0', port=port)
